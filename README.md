@@ -1,17 +1,11 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Sousa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 🔥 Junior Web Developer  
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
 <!--
 
@@ -46,21 +40,16 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/manosdavisc" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/davisousa31392a182" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/davi_s.c" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+
 </p>
 
 <!--
