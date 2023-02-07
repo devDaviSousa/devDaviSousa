@@ -35,7 +35,7 @@
 <br><br>
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/manosdavisc" target="_blank">
+<a href="https://twitter.com/manodavisc" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-davisousa-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/davisousa31392a182" target="_blank">
