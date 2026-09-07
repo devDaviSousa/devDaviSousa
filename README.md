@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer  
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about ** JavaScript,C#, Node.js, SQL **
 
 <!--
 
